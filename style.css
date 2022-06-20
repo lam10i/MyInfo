@@ -1286,11 +1286,11 @@ Body of the content
         top: auto;
         z-index: 100;
         border-radius: 0;
-        padding: 8px;
+        padding: 4px;
         background-color: rgba(162,184,231,.7);
     }
     .my-info-body-sidebar-item{
-        margin-right: 10px;
+        margin-right: 7px;
         margin-top: 4px;
         margin-bottom: 4px;
         padding: 4px 4px;
